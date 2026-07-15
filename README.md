@@ -1,2 +1,2 @@
-# hemalatha-portfolio
-My personal portfolio website built using HTML,CSS, and JavaScript.
+# FUTURE_FS_01
+Personal portfolio website of Hemalatha Mamidi showcasing skills, projects, and contact details using HTML, CSS, and JavaScript.
